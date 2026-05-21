@@ -1,30 +1,20 @@
 ---
 description: >-
-  Everything you need to build, deploy, and manage your projects on the
-  platform.
+  A resource with resources to ease the learning curve behind First Tech
+  Challenge's ecosystem, based on the experiences of FTC #21027.
 icon: hand-wave
 ---
 
-# Welcome
-
-Welcome to the platform. These docs cover everything from your first project to advanced workflows — pick a starting point below or ask the Assistant to jump straight to what you need.
-
-<button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question…</button>
-
-<button type="button" class="button secondary" data-action="ask" data-query="How do I deploy my first project" data-icon="rocket-launch">Deploy your first project</button><button type="button" class="button secondary" data-action="ask" data-query="How do I set up a custom domain" data-icon="globe">Set up a custom domain</button><button type="button" class="button secondary" data-action="ask" data-query="How do I invite my team" data-icon="user-group">Invite your team</button>
+# Alhambra Robotics Docs
 
 ***
 
-{% hint style="success" icon="sparkles" %}
-**New: scheduled deploys and team-level audit logs.** Schedule deploys for any future date and review every action taken in your workspace.
+<h4 align="center"><strong>2025-26 Robotics Team</strong></h4>
 
-<a href="https://gitbook.com/docs/changelog" class="button secondary">See what's new</a>
-{% endhint %}
+<figure><img src=".gitbook/assets/PXL_20260202_005234137.MP.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
-## Where to start
+## Jump into the sections
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><h4>Getting started</h4></td><td>Set up your account and ship your first project in minutes.</td><td><a href="/broken/pages/PbYb0GukRhiS4qCHdRal">Broken link</a></td></tr><tr><td><h4><i class="fa-book" style="color:$primary;">:book:</i></h4></td><td><h4>Core concepts</h4></td><td>Understand workspaces, projects, and how permissions work.</td><td><a href="/broken/pages/EFXeLTHVDQLFgK0Iy51O">Broken link</a></td></tr><tr><td><h4><i class="fa-graduation-cap" style="color:$primary;">:graduation-cap:</i></h4></td><td><h4>Guides</h4></td><td>Walkthroughs for common tasks like custom domains and automations.</td><td><a href="/broken/pages/oUUNprjFZmH3rqDBvb9h">Broken link</a></td></tr><tr><td><h4><i class="fa-book-open" style="color:$primary;">:book-open:</i></h4></td><td><h4>Reference</h4></td><td>Detailed configuration options, limits, and terminology.</td><td><a href="/broken/pages/AYVJmAXbSHYSDodrPBYA">Broken link</a></td></tr></tbody></table>
+There are many different skills you can build in your time with FTC's robotics, yet one shouldn't be restricted to a specific set of skills. The sections below provide setup instructions, resources, some tips/tricks that were gained throughout the many seasons the club has existed.
 
-## Popular tasks
-
-<table data-view="cards"><thead><tr><th></th><th data-type="content-ref"></th><th data-type="content-ref"></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>For builders</h4></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td><td><a href="getting-started/your-first-project.md">your-first-project.md</a></td><td><a href="hardware/custom-domains.md">custom-domains.md</a></td></tr><tr><td><h4>For admins</h4></td><td><a href="software/permissions.md">permissions.md</a></td><td><a href="reference/configuration.md">configuration.md</a></td><td><a href="software/workspaces-and-projects.md">workspaces-and-projects.md</a></td></tr><tr><td><h4>For developers</h4></td><td><a href="hardware/automations.md">automations.md</a></td><td><a href="reference/glossary.md">glossary.md</a></td><td><a href="reference/configuration.md">configuration.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><h4>Getting started</h4></td><td>idk yet</td><td><a href="/broken/pages/PbYb0GukRhiS4qCHdRal">Broken link</a></td><td></td></tr><tr><td><h4><i class="fa-sunglasses" style="color:$primary;">:sunglasses:</i></h4></td><td><h4>Software</h4></td><td>Understand the mystifying arts of <span data-gb-custom-inline data-tag="emoji" data-code="2728">✨</span><mark style="color:yellow;">code</mark><span data-gb-custom-inline data-tag="emoji" data-code="2728">✨</span> and <span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span><mark style="color:$danger;">debugging</mark><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td><a href="/broken/pages/EFXeLTHVDQLFgK0Iy51O">Broken link</a></td><td><a href=".gitbook/assets/image_2026-05-20_202517826.png">image_2026-05-20_202517826.png</a></td></tr><tr><td><h4><i class="fa-truck-moving" style="color:$primary;">:truck-moving:</i></h4></td><td><h4>Hardware</h4></td><td>Where physics, dedication, and a lack of parts combine</td><td><a href="/broken/pages/oUUNprjFZmH3rqDBvb9h">Broken link</a></td><td><a href=".gitbook/assets/Robot Prototype.png">Robot Prototype.png</a></td></tr><tr><td><h4><i class="fa-oil-temperature" style="color:$primary;">:oil-temperature:</i></h4></td><td><h4>3D Modeling</h4></td><td>Imagination transformed to a 3D render of downloadable RAM </td><td><a href="/broken/pages/vI5ZWHOh18UiniPig39t">Broken link</a></td><td><a href=".gitbook/assets/Screenshot 2025-11-14 202635.png">Screenshot 2025-11-14 202635.png</a></td></tr><tr><td><i class="fa-dollar-sign">:dollar-sign:</i></td><td><h4><strong>Outreach/Finance</strong></h4></td><td>What's not to love</td><td><a href="/broken/pages/DDYcSwlZgxOl6yOD7nRv">Broken link</a></td><td data-object-fit="fill"><a href=".gitbook/assets/image_2026-05-20_203840084.png">image_2026-05-20_203840084.png</a></td></tr></tbody></table>

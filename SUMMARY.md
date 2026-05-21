@@ -1,10 +1,11 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Alhambra Robotics Docs](README.md)
 
 ## Getting Started
 
-* [Getting started](getting-started/getting-started.md)
+* [Alhambra Robotics](getting-started/alhambra-robotics.md)
+* [What is FTC?](getting-started/what-is-ftc.md)
 * [Quickstart](getting-started/quickstart.md)
 * [Your first project](getting-started/your-first-project.md)
 
@@ -23,6 +24,10 @@
 ## 3D Modeling
 
 * [Page 2](3d-modeling/page-2.md)
+
+## Outreach/Finance
+
+* [Page 1](outreach-finance/page-1.md)
 
 ## Reference
 
