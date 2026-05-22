@@ -1,6 +1,5 @@
 ---
 description: Great question.
-icon: users-rectangle
 ---
 
 # What is FTC?

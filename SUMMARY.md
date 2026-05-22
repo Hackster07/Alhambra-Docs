@@ -14,6 +14,7 @@
 * [Core concepts](software/core-concepts.md)
 * [Workspaces and projects](software/workspaces-and-projects.md)
 * [Permissions](software/permissions.md)
+* [Previous Seasons Code](software/previous-seasons-code.md)
 
 ## Hardware
 
