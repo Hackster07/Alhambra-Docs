@@ -11,6 +11,7 @@
 
 ## Software
 
+* [Software Setup](software/software-setup.md)
 * [Core concepts](software/core-concepts.md)
 * [Workspaces and projects](software/workspaces-and-projects.md)
 * [Permissions](software/permissions.md)
