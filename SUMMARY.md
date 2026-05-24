@@ -25,7 +25,7 @@
 
 ## 3D Modeling
 
-* [Page 2](3d-modeling/page-2.md)
+* [Modeling Software](3d-modeling/modeling-software.md)
 
 ## Outreach/Finance
 

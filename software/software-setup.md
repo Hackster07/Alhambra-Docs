@@ -1,13 +1,17 @@
 ---
-description: All required programs and setups required for comp (guide for windows)
+description: All required software and setup for competitions. Guide for Windows.
 ---
 
 # Software Setup
 
+## GitHub
+
+
+
 ## **Android Studio**
 
 {% hint style="info" %}
-This section simplifies steps shown on [The Cookbook](https://cookbook.dairy.foundation/intro_to_programming/setup.html) and [gm0](https://gm0.org/en/latest/docs/software/getting-started/using-android-studio.html). If the steps shown here are insufficient, please reference the guides listed.
+This section simplifies the steps shown in [The Cookbook](https://cookbook.dairy.foundation/intro_to_programming/setup.html) and [gm0](https://gm0.org/en/latest/docs/software/getting-started/using-android-studio.html). If these steps are not enough, refer to those guides.
 {% endhint %}
 
 {% stepper %}
@@ -15,7 +19,7 @@ This section simplifies steps shown on [The Cookbook](https://cookbook.dairy.fou
 #### Install/Update [Java](https://www.oracle.com/java/technologies/downloads/)
 
 * Download the latest version of [Java](https://www.oracle.com/java/technologies/downloads/)
-* Use the installer in the windows tab
+* Use the installer in the Windows tab
 {% endstep %}
 
 {% step %}
@@ -26,11 +30,13 @@ This section simplifies steps shown on [The Cookbook](https://cookbook.dairy.fou
 {% endstep %}
 
 {% step %}
-#### Download and open FtcRobotController
+#### Download and open [FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
 
-
+1. Import directly into Android Studio
+   * Open Android Studio
+   * Click **Open**
+   * Select the `FtcRobotController` folder
 {% endstep %}
 {% endstepper %}
 
 ## **REV Hardware Client**
-
