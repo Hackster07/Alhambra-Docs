@@ -9,7 +9,7 @@ Use a personal email for basic account creation for both Fusion360 and Onshape, 
 Autodesk Fusion360 is a desktop program that has powerful and rich features that work perfectly for FTC. Although organically gaining access to Fusion360 would be to subscribe to a $57/month plan, you can use your high school or college information for the free education license.
 
 {% hint style="info" %}
-Both Alhambra Senior High and Diablo Valley College are eligible for the education license. Sometimes, Autodesk may require additional information verifying your affiliation when going through the educational eligibility, as shown below.
+Both Alhambra Senior High and Diablo Valley College are eligible for the education license. Sometimes, Autodesk may require additional information verifying your affiliation, as shown below.
 {% endhint %}
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image_2026-05-24_000803238.png" alt="" width="375"><figcaption></figcaption></figure></div>
