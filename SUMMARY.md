@@ -8,6 +8,7 @@
 * [What is FTC?](getting-started/what-is-ftc.md)
 * [Quickstart](getting-started/quickstart.md)
 * [Your first project](getting-started/your-first-project.md)
+* [Resource Dump](getting-started/resource-dump.md)
 
 ## Software
 
