@@ -39,4 +39,11 @@ This section simplifies the steps shown in [The Cookbook](https://cookbook.dairy
 {% endstep %}
 {% endstepper %}
 
-## **REV Hardware Client**
+## **REV Hardware Client 2**
+
+{% hint style="info" %}
+A software that is used to connect and update to any device related to the functionality of the robot.
+{% endhint %}
+
+Use the embemed link to download from the [REV](https://docs.revrobotics.com/rev-hardware-client-2) website and follow all listed instructions.
+

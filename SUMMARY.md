@@ -27,6 +27,7 @@
 ## 3D Modeling
 
 * [Modeling Software](3d-modeling/modeling-software.md)
+* [Software Plugins/Addons](3d-modeling/software-plugins-addons.md)
 
 ## Outreach/Finance
 

@@ -15,6 +15,6 @@ Before you start, make sure you have:
 * [x] A few minutes of uninterrupted time
 
 {% hint style="info" %}
-If you're evaluating the platform for your team rather than yourself, jump to [Broken link](/broken/pages/EFXeLTHVDQLFgK0Iy51O "mention") first — it'll save time when you set things up properly.
+If you're evaluating the platform for your team rather than yourself, jump to [Software](https://app.gitbook.com/s/eDt29rpz2fr4lKMqwDj9/software "mention") first — it'll save time when you set things up properly.
 {% endhint %}
 

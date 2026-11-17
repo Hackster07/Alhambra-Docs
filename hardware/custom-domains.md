@@ -2,6 +2,7 @@
 description: >-
   Replace your auto-generated subdomain with your own domain, with automatic
   SSL.
+hidden: true
 icon: globe
 ---
 
