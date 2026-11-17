@@ -1,5 +1,6 @@
 ---
 description: Understand workspaces, projects, and how permissions work across the platform.
+hidden: true
 icon: book
 ---
 

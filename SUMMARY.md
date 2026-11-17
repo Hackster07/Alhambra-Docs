@@ -28,6 +28,8 @@
 
 * [Modeling Software](3d-modeling/modeling-software.md)
 * [Software Plugins/Addons](3d-modeling/software-plugins-addons.md)
+* [Robotics-specific tips](3d-modeling/robotics-specific-tips/README.md)
+  * [Tech for Ben during 3D hell](3d-modeling/robotics-specific-tips/tech-for-ben-during-3d-hell.md)
 
 ## Outreach/Finance
 
