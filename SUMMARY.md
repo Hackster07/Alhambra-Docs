@@ -13,6 +13,8 @@
 ## Software
 
 * [Software Setup](software/software-setup.md)
+* [Robot Code Structure](software/robot-code-structure/README.md)
+  * [Tougher quirks of Pedro](software/robot-code-structure/tougher-quirks-of-pedro.md)
 * [Core concepts](software/core-concepts.md)
 * [Workspaces and projects](software/workspaces-and-projects.md)
 * [Permissions](software/permissions.md)

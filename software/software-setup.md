@@ -4,9 +4,19 @@ description: All required software and setup for competitions. Guide for Windows
 
 # Software Setup
 
-## GitHub
+## **GitHub**
 
+Any and all code developed in our programed are uploaded and accessed via GitHub. Having an account is imperative as it allows for collaboration with fellow members and free cloud access anywhere you are.
 
+{% tabs %}
+{% tab title="Create Account" %}
+Use a personal email to create your GitHub account.
+{% endtab %}
+
+{% tab title="Git Organization" %}
+Our code will be uploaded and shared through our club's GitHub [organization](https://github.com/alhambracs). To gain permissions to edit/upload, please reach out to Justin via in-person, discord, or email.
+{% endtab %}
+{% endtabs %}
 
 ## **Android Studio**
 
